@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.active {
+  background-color: greenyellow;
+  color: green;
+}
+
+/* Remove body margin here to ensure full width for the sticky header container */
+/* We will control the inner content margin inside Header.jsx and Home.jsx */
+/* body {
+    max-width: 90%;
+    margin-inline: auto;
+} */
+
+@plugin "daisyui/theme" {
+  name: "light";
+  default: true;
+  --color-primary: green;
+  --color-secondary: greenyellow;
+}

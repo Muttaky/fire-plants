@@ -1,0 +1,50 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant (Laurentii)",
+    "category": "Air Purifier",
+    "price": 18.99,
+    "rating": 4.8,
+    "description": "A popular, hardy plant that purifies indoor air and thrives even with neglect. Features striking yellow borders on its leaves.",
+    "image": "/1.png",
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Pothos (Golden)",
+    "category": "Vining & Hanging",
+    "price": 12.5,
+    "rating": 4.5,
+    "description": "An excellent beginner plant known for its heart-shaped, variegated leaves. It tolerates low light but grows faster in bright, indirect light.",
+    "image": "/2.png",
+    "availableStock": 22,
+    "careLevel": "Very Easy",
+    "providerName": "GreenLeaf Nursery"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Monstera Deliciosa",
+    "category": "Statement Plant",
+    "price": 45.0,
+    "rating": 4.9,
+    "description": "The iconic Swiss Cheese plant. Known for its large, fenestrated leaves that add a tropical, stylish touch to any room. Requires moderate humidity.",
+    "image": "/3.png",
+    "availableStock": 8,
+    "careLevel": "Moderate",
+    "providerName": "Bloom & Branch Co."
+  },
+  {
+    "plantId": 4,
+    "plantName": "ZZ Plant (Zamioculcas)",
+    "category": "Low Light Warrior",
+    "price": 25.99,
+    "rating": 4.6,
+    "description": "A virtually indestructible plant with thick, waxy, deep-green leaves. It is highly drought-tolerant and perfect for offices or dark corners.",
+    "image": "/4.png",
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "providerName": "The Plant Collective"
+  }
+]
